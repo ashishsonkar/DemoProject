@@ -432,6 +432,9 @@ a{
 	#PostCol2Heading{
 		margin:25px 0px !important;
 	}
+	#subsNewsletter{
+		max-width: 350px !important;
+	}
 }
 @media(min-width:768px) and (max-width:1200px){
 	.overlay-links a{
