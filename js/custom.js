@@ -5,7 +5,7 @@ header.innerHTML+=`
     <div class="row d-flex align-items-center">
 	  <div class="col-md-2">
 	    <div>
-		  <img src="icons/logo.png" alt="logo">
+		 <a href="index.html"><img src="icons/logo.png" alt="logo"></a>
 		</div>
 	  </div><!--end column -->
 	  <div id="Mview" class="d-none" onclick="navMenu()">
