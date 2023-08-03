@@ -409,7 +409,7 @@ a{
 	#Mview{
 		display:block !important;
 		position:relative !important;
-		right:-60vw;
+		right:-50vw;
 	}
 	#navbar,#signIn{
 		display:none;
