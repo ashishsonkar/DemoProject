@@ -510,3 +510,8 @@ copyright.innerHTML+=`
 	</div><!--end row -->
   </div><!-- end container -->
 `;
+
+let img=document.querySelectorAll("img");
+  for(var i=0;i<img.length;i++){
+  img[i].setAttribute("loading","lazy");
+}
